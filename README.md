@@ -10,7 +10,9 @@ We try to use the A* algorithm to navigate through a 2D Gird environment. We pro
 
 ### STEP 1:
 Build a 2D grid world with initial state and goal state
+
 Initial State: (2,2)
+
 Goal State: (5,8)
 
 ### STEP 2:
