@@ -18,6 +18,8 @@ Build a 2D grid world with initial state , goal state and obstacles:
 
 
 ## Draw the 2D 
+![Screenshot_645](https://user-images.githubusercontent.com/75235455/168839044-4326a25a-c159-4fbf-bc90-d365b664415b.png)
+
 
 ## PROGRAM
 Include your code here
