@@ -26,7 +26,7 @@ Include your code here
 
 
 ## OUTPUT:
+![Screenshot_646](https://user-images.githubusercontent.com/75235455/168839703-482ca525-8667-4a46-b260-6da81d171af3.png)
 
-Explain the Completeness and complexity of the algorithm:
 
 ## RESULT:
