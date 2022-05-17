@@ -22,7 +22,7 @@ Build a 2D grid world with initial state , goal state and obstacles:
 
 
 ## PROGRAM
-Include your code here
+
 
 
 ## OUTPUT:
